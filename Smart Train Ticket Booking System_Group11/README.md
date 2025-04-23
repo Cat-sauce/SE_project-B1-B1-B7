@@ -97,3 +97,8 @@ Better UI with modern styling (e.g., ttk themes or PyQt/PySide)
 
 ---
 
+## 👨‍💻 Team Members
+- Harsh Vardhan Saini (Frontend & Backend)
+  SAP: 500120369
+- Gautam Singh Chauhan (Documentation)
+  SAP: 500121434
